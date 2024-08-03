@@ -2,7 +2,7 @@ Hi, I’m @vignesh.
 I’m interested in python and doing my best to learn python fully i.e; many of its popular libraries.
 I would like to collabrate with and team up with the learners like me and i wanna learn many new things daily in python.
 Now I am also interested in learning 1 more programming language as i can develope and imporve my skills more and more .
-I am studying in Saranathan College of Engineering 2nd Year.
+I am studying in Saranathan College of Engineering 3rd Year.
 
 
 <!---
