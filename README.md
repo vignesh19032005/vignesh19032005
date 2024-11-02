@@ -2,7 +2,6 @@ I'm Vignesh L, an aspiring Data & ML Engineer from India. Welcome to my GitHub!
 
 About Me
 I'm currently learning Deep Learning, Large Language Models (LLMs), and Generative AI.
-I’m pursuing a B.Tech in Artificial Intelligence and Data Science and recently secured 12th place as a finalist in the Intel ONEAPI Hackathon for my project Voyage Verse.
 How to reach me:
 
 Email: vigneshlakshmanababu@gmail.com
