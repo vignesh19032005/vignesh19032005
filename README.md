@@ -32,8 +32,6 @@ Figma
 Other Technologies
 Database Management Systems (PostgreSQL, MongoDB)
 Projects
-🔹 Voyage Verse - AI-Powered Itinerary Generator
-A Generative AI-based tool for creating personalized travel itineraries. It optimizes travel routes and recommends attractions based on user input.
 
 📁 Repository: Sentiment Analysis
 🔹 Word Frequency in Classic Novels
