@@ -36,10 +36,6 @@ Projects
 🔹 Voyage Verse - AI-Powered Itinerary Generator
 A Generative AI-based tool for creating personalized travel itineraries. It optimizes travel routes and recommends attractions based on user input.
 
-📁 Repository: Voyage Verse
-🔹 Sentiment Analysis for Customer Feedback
-A project that uses TextBlob for text and voice sentiment analysis. It features an interactive dashboard and a recommendation system based on feedback data.
-
 📁 Repository: Sentiment Analysis
 🔹 Word Frequency in Classic Novels
 A Python tool that analyzes word frequency in classic literature using NLTK and visualizes the results with Matplotlib.
