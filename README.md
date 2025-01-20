@@ -9,9 +9,6 @@ Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Sci
 ### **Languages & Frameworks**:
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) [Django](https://www.djangoproject.com/)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### **AI & Data Science**:
 - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=flat&logo=python&logoColor=black) [Machine Learning](https://scikit-learn.org/stable/supervised_learning.html)
@@ -24,7 +21,6 @@ Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Sci
 
 ### **Databases**:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) [PostgreSQL](https://www.postgresql.org/)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) [SQL](https://www.w3schools.com/sql/)
 
 ### **Other Tools**:
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [Git](https://git-scm.com/)
