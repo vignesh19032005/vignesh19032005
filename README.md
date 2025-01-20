@@ -4,6 +4,50 @@ Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Sci
 
 ---
 
+## Skills & Technologies 🛠️
+
+### **Languages & Frameworks**:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) [Django](https://www.djangoproject.com/)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### **AI & Data Science**:
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=flat&logo=python&logoColor=black) [Machine Learning](https://scikit-learn.org/stable/supervised_learning.html)
+- ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) [Deep Learning](https://www.tensorflow.org/)
+- ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=github&logoColor=white) [Generative AI](https://www.sas.com/en_us/insights/analytics/generative-ai.html)
+- ![Cache Augmented Generation](https://img.shields.io/badge/Cache_Augmented_Generation-000000?style=flat&logo=github&logoColor=white) [Cache Augmented Generation](https://arxiv.org/abs/2302.07394)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) [Scikit-learn](https://scikit-learn.org/)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) [TensorFlow](https://www.tensorflow.org/)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [PyTorch](https://pytorch.org/)
+
+### **Databases**:
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) [PostgreSQL](https://www.postgresql.org/)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) [SQL](https://www.w3schools.com/sql/)
+
+### **Other Tools**:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [Git](https://git-scm.com/)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [GitHub](https://github.com/)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) [Figma](https://www.figma.com/)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) [Jupyter](https://jupyter.org/)
+- ![Tkinter](https://img.shields.io/badge/Tkinter-00A6A6?style=flat&logo=tkinter&logoColor=white) [Tkinter](https://wiki.python.org/moin/TkInter)
+
+---
+
+## Technical Skills:
+- **Languages & Frameworks**: Python, Django, JavaScript, HTML, CSS
+- **AI & Data Science**: Machine Learning, Deep Learning, Generative AI, Cache Augmented Generation, Scikit-learn, TensorFlow, PyTorch
+- **Databases**: PostgreSQL, SQL
+- **Tools**: Git, GitHub, Figma, Jupyter, Tkinter
+
+---
+
+## Soft Skills:
+- **Adaptability**, **Critical Thinking**, **Problem-Solving**, **Leadership**, **Teamwork**, **Effective Communication**, **Time Management**, **Creativity**, **Precision**, **Quick Learning**, **Project Management**, **Analytical Thinking**, **Decision-Making**
+
+---
+
 ## Projects 🔧
 
 ### **Voyage Verse - Smart Itinerary Generator** ✈️🌍
