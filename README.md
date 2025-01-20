@@ -51,7 +51,7 @@ A project focused on improving the efficiency of AI models by integrating **Cach
   - Accelerates the generation process without sacrificing output quality.
   - Enhances long-form responses by maintaining context over multiple interactions.
 
-- **GitHub**: *((https://github.com/vignesh19032005/CAG-Chatbot))*
+- **GitHub**: *[CAG Chatbot](https://github.com/vignesh19032005/CAG-Chatbot)*
 ---
 
 ## Hackathon Achievements 🏆
@@ -86,8 +86,6 @@ A project focused on improving the efficiency of AI models by integrating **Cach
 
 - **Email**: [vigneshlakshmanababu@gmail.com](mailto:vigneshlakshmanababu@gmail.com)
 - **LinkedIn**: [Vignesh LinkedIn](#) *([www.linkedin.com/in/vignesh19032005])*
-- **Twitter**: [@VigneshAI](#) *([(https://github.com/vignesh19032005])*
-
 ---
 
 ## Let's Build the Future! 🚀
