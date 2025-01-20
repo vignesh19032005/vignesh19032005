@@ -14,7 +14,6 @@ Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Sci
 - ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=flat&logo=python&logoColor=black) [Machine Learning](https://scikit-learn.org/stable/supervised_learning.html)
 - ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) [Deep Learning](https://www.tensorflow.org/)
 - ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=github&logoColor=white) [Generative AI](https://www.sas.com/en_us/insights/analytics/generative-ai.html)
-- ![Cache Augmented Generation](https://img.shields.io/badge/Cache_Augmented_Generation-000000?style=flat&logo=github&logoColor=white) [Cache Augmented Generation](https://arxiv.org/abs/2302.07394)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) [Scikit-learn](https://scikit-learn.org/)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) [TensorFlow](https://www.tensorflow.org/)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [PyTorch](https://pytorch.org/)
@@ -33,7 +32,7 @@ Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Sci
 
 ## Technical Skills:
 - **Languages & Frameworks**: Python, Django, JavaScript, HTML, CSS
-- **AI & Data Science**: Machine Learning, Deep Learning, Generative AI, Cache Augmented Generation, Scikit-learn, TensorFlow, PyTorch
+- **AI & Data Science**: Machine Learning, Deep Learning, Generative AI, Retrival Augmented Generation, Cache Augmented Generation, Scikit-learn, TensorFlow, PyTorch
 - **Databases**: PostgreSQL, SQL
 - **Tools**: Git, GitHub, Figma, Jupyter, Tkinter
 
