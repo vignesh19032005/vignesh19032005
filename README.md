@@ -1,85 +1,97 @@
-About Me 🚀
+# About Me 🚀
 
-Welcome to my GitHub! I'm a Pre-final Year B.Tech Student in AI & Data Science with a passion for building AI-driven tools and projects. Below you'll find some of my notable projects, hackathon achievements, and tech skills. Feel free to explore!
+Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Science** with a passion for building AI-driven tools and projects. Below you'll find some of my notable projects, hackathon achievements, and tech skills. Feel free to explore!
 
-Skills & Technologies 🛠️
+---
 
-Languages & Frameworks:
+## Skills & Technologies 🛠️
 
- Python
+### **Languages & Frameworks**:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [Python](https://www.python.org/)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) [Django](https://www.djangoproject.com/)
 
- Django
+### **AI & Data Science**:
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7DF1E?style=flat&logo=python&logoColor=black) [Machine Learning](https://scikit-learn.org/stable/supervised_learning.html)
+- ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) [Deep Learning](https://www.tensorflow.org/)
+- ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=flat&logo=github&logoColor=white) [Generative AI](https://www.sas.com/en_us/insights/analytics/generative-ai.html)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) [Scikit-learn](https://scikit-learn.org/)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) [TensorFlow](https://www.tensorflow.org/)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) [PyTorch](https://pytorch.org/)
 
- JavaScript
+### **Databases**:
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) [PostgreSQL](https://www.postgresql.org/)
 
- HTML
+### **Other Tools**:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) [Git](https://git-scm.com/)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [GitHub](https://github.com/)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) [Figma](https://www.figma.com/)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) [Jupyter](https://jupyter.org/)
+- ![Tkinter](https://img.shields.io/badge/Tkinter-00A6A6?style=flat&logo=tkinter&logoColor=white) [Tkinter](https://wiki.python.org/moin/TkInter)
 
- CSS
+---
 
-AI & Data Science:
+## Technical Skills:
+- **Languages & Frameworks**: Python, Django, JavaScript, HTML, CSS
+- **AI & Data Science**: Machine Learning, Deep Learning, Generative AI, Retrival Augmented Generation, Cache Augmented Generation, Scikit-learn, TensorFlow, PyTorch
+- **Databases**: PostgreSQL, SQL
+- **Tools**: Git, GitHub, Figma, Jupyter, Tkinter
 
- Machine Learning
+---
 
- Deep Learning
+## Soft Skills:
+- **Adaptability**, **Critical Thinking**, **Problem-Solving**, **Leadership**, **Teamwork**, **Effective Communication**, **Time Management**, **Creativity**, **Precision**, **Quick Learning**, **Project Management**, **Analytical Thinking**, **Decision-Making**
 
- Generative AI
+---
 
- RAG
+## Projects 🔧
 
- CAG
+### **Voyage Verse - Smart Itinerary Generator** ✈️🌍
+A platform that generates optimized travel itineraries using **geolocation APIs** and dynamic filtering for attractions and restaurant recommendations.
 
- Scikit-learn
+- **Tech Stack**: 
+  - Backend: `Django`, `Python`
+  - Frontend: `JavaScript`, `HTML`, `CSS`
+  - APIs: Geolocation APIs
+  
+- **Key Features**:
+  - Personalized travel recommendations
+  - Dynamic itinerary optimization based on user preferences
 
- TensorFlow
+- **GitHub**: [Voyage Verse Repo](https://github.com/vignesh19032005/Voyage_Verse-GDG)
 
- PyTorch
+---
 
-Databases:
+### **CodeBot - AI-Powered Code Generation Assistant** 💻🤖
+An AI-powered assistant for generating code snippets and managing dynamic conversations based on user queries.
 
- PostgreSQL
+- **Tech Stack**: 
+  - Backend: `Django`, `Python`
+  - Frontend: `JavaScript`, `HTML`, `CSS`
+  - AI: Google Generative AI
+  
+- **Key Features**:
+  - Code generation from user queries
+  - Context-based conversation tracking
+  - User authentication & session management
 
-Other Tools:
+- **GitHub**: [CodeBot Repo](https://github.com/vignesh19032005/CodeBot)
 
- Git
+---
+### **Cache Augmented Generation (CGA)** ⚡💡
+A project focused on improving the efficiency of AI models by integrating **Cache Augmented Generation** (CGA) techniques to store and reuse generated information for faster and more coherent responses. 
 
- GitHub
+- **Tech Stack**: 
+  - Backend: `Python`, `TensorFlow`, `PyTorch`
+  - AI: **Cache Augmented Generation (CAG)**
+  - Frameworks: `Django`
+  
+- **Key Features**:
+  - Reduces redundant computation by caching intermediate model responses.
+  - Accelerates the generation process without sacrificing output quality.
+  - Enhances long-form responses by maintaining context over multiple interactions.
 
- Figma
-
- Jupyter
-
- Tkinter
-
-Projects 🔧
-
-Voyage Verse - Smart Itinerary Generator ✈️🌍
-
-Tech Stack: Django, Python, JavaScript, Geolocation APIsGitHub
-
-CodeBot - AI-Powered Code Generation Assistant 💻🤖
-
-Tech Stack: Django, Python, Google Generative AIGitHub
-
-Newslens - AI-Powered News Summarizer 📰🤖
-
-Tech Stack: Python, NLP, Transformer modelsGitHub
-
-Cache Augmented Generation (CAG) ⚡💡
-
-Tech Stack: Python, TensorFlow, PyTorch, DjangoGitHub
-
-Neural Network from Scratch 🧠
-
-Tech Stack: Python, NumPyGitHub
-
-ML Projects Repository 📊
-
-Tech Stack: Python, Scikit-learn, PandasGitHub
-
-LeetCode & HackerRank Solutions 📝
-
-Tech Stack: PythonGitHub
-
+- **GitHub**: *[CAG Chatbot](https://github.com/vignesh19032005/CAG-Chatbot)*
+---
 
 ## Hackathon Achievements 🏆
 
