@@ -77,7 +77,7 @@ An AI-powered assistant for generating code snippets and managing dynamic conver
 - **GitHub**: [CodeBot Repo](https://github.com/vignesh19032005/CodeBot)
 
 ---
-### **Cache Augmented Generation (CGA)** ⚡💡
+### **Cache Augmented Generation (CAG)** ⚡💡
 A project focused on improving the efficiency of AI models by integrating **Cache Augmented Generation** (CGA) techniques to store and reuse generated information for faster and more coherent responses. 
 
 - **Tech Stack**: 
