@@ -1,6 +1,6 @@
 # About Me 🚀
 
-Welcome to my GitHub! I'm a **Pre-final Year B.Tech Student** in **AI & Data Science** with a passion for building AI-driven tools and projects. Below you'll find some of my notable projects, hackathon achievements, and tech skills. Feel free to explore!
+Welcome to my GitHub! I'm a **Final Year B.Tech Student** in **AI & Data Science** with a passion for building AI-driven tools and projects. Below you'll find some of my notable projects, hackathon achievements, and tech skills. Feel free to explore!
 
 ---
 
